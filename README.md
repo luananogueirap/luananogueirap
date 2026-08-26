@@ -15,7 +15,7 @@
 </table>
   <div align="center">
     
-## . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁. technologies and tools . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
+##  technologies and tools 
 
   </div>
 <div align="center">
@@ -31,7 +31,7 @@
 </div>
 <div align="center">
   
-## . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁. github statistics . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
+## github statistics 
 
 </div>
 <div align="center">
