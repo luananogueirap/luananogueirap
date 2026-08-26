@@ -1,11 +1,6 @@
 <div align="center">
   <img src="https://www.pinterest.com/ideas/cat-on-a-computer/918384131205/" width="300" alt="Gato no computador"/>
-
-  Lua
-  Software Engineer Student
 </div>
-
-- Estudando com foco em Node.JS e JavaScript
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
