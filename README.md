@@ -31,21 +31,6 @@
 ## GitHub statistics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luananogueirap&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="Luana's GitHub statistics" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=luananogueirap&theme=dracula&hide_border=true&locale=en" alt="Luana's contribution streak" />
-</div>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luananogueirap&layout=compact&theme=dracula&hide_border=true&locale=en" alt="Luana's most used languages" />
-</div>
-
-<div align="center">
-  <p><i>“Great projects start with small commits.”</i></p>
-</div>
-
-## GitHub statistics
-
-<div align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=luananogueirap&theme=dracula&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de Luana" />
 </div>
 
