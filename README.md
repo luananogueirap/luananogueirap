@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.pinterest.com/ideas/cat-on-a-computer/918384131205/" width="300" alt="Gato no computador"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtsdmlsNXdxeDIwMTJpM29weGlhbnc5M2FpeWdhamxqa2NmeHh5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" width="300" alt="Gato no computador"/>
 </div>
 
 <div align="center">
