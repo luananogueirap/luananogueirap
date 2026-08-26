@@ -13,9 +13,9 @@
     </td>
   </tr>
 </table>
-
-## . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁. technologies and tools
-
+  <div align="center">
+## . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁. technologies and tools . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
+  </div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
@@ -27,9 +27,9 @@
 <div align="center">
   <sub>javascript · node.js · express · mongoDB · git</sub>
 </div>
-
-## . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁. github statistics
-
+<div align="center">
+## . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁. github statistics . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
+</div>
 <div align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=luananogueirap&theme=dracula&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de Luana" />
 </div>
