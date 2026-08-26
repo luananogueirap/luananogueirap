@@ -15,8 +15,6 @@
 - 📚 Sempre aprendendo algo novo e buscando evoluir como desenvolvedora
 - 💬 Sinta-se à vontade para conhecer meus projetos e entrar em contato
 
-## Tecnologias e ferramentas
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
@@ -40,6 +38,3 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luananogueirap&layout=compact&theme=dracula&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Luana" />
 </div>
 
-<div align="center">
-  <p><i>“Grandes projetos começam com pequenos commits.”</i></p>
-</div>
