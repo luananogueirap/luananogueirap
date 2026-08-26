@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtsdmlsNXdxeDIwMTJpM29weGlhbnc5M2FpeWdhamxqa2NmeHh5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" width="300" alt="Gato programando no computador" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtsdmlsNXdxeDIwMTJpM29weGlhbnc5M2FpeWdhamxqa2NmeHh5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" width="300" alt="Cat on computer"/>
 </div>
 
 <div align="center">
@@ -8,13 +8,11 @@
   </a>
 </div>
 
- Atualmente, aprofundando meus conhecimentos em desenvolvimento back-end, APIs e bancos de dados.
+Currently, I'm deepening my knowledge of back-end development, APIs, and databases.
 
-- 🚀 Explorando o ecossistema JavaScript e Node.js
-- 🧩 Criando APIs e aplicações web com foco em organização e boas práticas
-- 📚 Sempre aprendendo algo novo e buscando evoluir como desenvolvedora
-- 💬 Sinta-se à vontade para conhecer meus projetos e entrar em contato
-
+- Exploring the JavaScript and Node.js ecosystem
+- Building APIs and web applications with a focus on clean code and best practices
+  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
