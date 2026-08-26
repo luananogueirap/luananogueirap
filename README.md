@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z4eHRuazRvdnVsMmtudGFuMzBnMHUxeDYxc2V1cG4waHRoYzEzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lq0h93752f6J9tijrh/giphy.gif" width="300" alt="Gato no computador"/>
+  <img src="https://www.pinterest.com/ideas/cat-on-a-computer/918384131205/" width="300" alt="Gato no computador"/>
 
   Lua
   Software Engineer Student
