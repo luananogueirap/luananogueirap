@@ -28,7 +28,7 @@
   <sub>javascript · node.js · express · mongoDB · git</sub>
 </div>
 
-##. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁. github statistics
+## . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁. github statistics
 
 <div align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=luananogueirap&theme=dracula&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de Luana" />
