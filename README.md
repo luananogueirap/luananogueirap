@@ -1,18 +1,21 @@
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtsdmlsNXdxeDIwMTJpM29weGlhbnc5M2FpeWdhamxqa2NmeHh5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" width="300" alt="Cat on computer"/>
-</div>
+<table>
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtsdmlsNXdxeDIwMTJpM29weGlhbnc5M2FpeWdhamxqa2NmeHh5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" width="300" alt="Cat programming on a computer" />
+    </td>
+    <td width="60%" valign="middle">
+      <p>Currently, I'm deepening my knowledge of back-end development, APIs, and databases.</p>
+      <ul>
+        <li>- Exploring the JavaScript and Node.js ecosystem</li>
+        <li>- Building APIs and web applications with a focus on clean code and best practices</li>
+      </ul>
+      <a href="https://github.com/luananogueirap"><img src="https://img.shields.io/badge/GitHub-luananogueirap-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <a href="https://github.com/luananogueirap">
-    <img src="https://img.shields.io/badge/GitHub-luananogueirap-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</div>
+## Technologies and tools
 
-Currently, I'm deepening my knowledge of back-end development, APIs, and databases.
-
-- Exploring the JavaScript and Node.js ecosystem
-- Building APIs and web applications with a focus on clean code and best practices
-  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
@@ -23,6 +26,21 @@ Currently, I'm deepening my knowledge of back-end development, APIs, and databas
 
 <div align="center">
   <sub>JavaScript · Node.js · Express · MongoDB · Git</sub>
+</div>
+
+## GitHub statistics
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luananogueirap&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="Luana's GitHub statistics" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=luananogueirap&theme=dracula&hide_border=true&locale=en" alt="Luana's contribution streak" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luananogueirap&layout=compact&theme=dracula&hide_border=true&locale=en" alt="Luana's most used languages" />
+</div>
+
+<div align="center">
+  <p><i>“Great projects start with small commits.”</i></p>
 </div>
 
 ## GitHub statistics
