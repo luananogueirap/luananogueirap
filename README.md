@@ -25,14 +25,10 @@ Currently, I'm deepening my knowledge of back-end development, APIs, and databas
   <sub>JavaScript · Node.js · Express · MongoDB · Git</sub>
 </div>
 
-## Estatísticas do GitHub
+## GitHub statistics
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=luananogueirap&show_icons=true&theme=dracula&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Luana" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=luananogueirap&theme=dracula&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de Luana" />
-</div>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luananogueirap&layout=compact&theme=dracula&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Luana" />
 </div>
 
