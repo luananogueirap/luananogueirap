@@ -6,8 +6,8 @@
     <td width="60%" valign="middle">
       <p>Currently, I'm deepening my knowledge of back-end development, APIs, and databases.</p>
       <ul>
-        <li>- Exploring the JavaScript and Node.js ecosystem</li>
-        <li>- Building APIs and web applications with a focus on clean code and best practices</li>
+        <li> Exploring the JavaScript and Node.js ecosystem</li>
+        <li> Building APIs and web applications with a focus on clean code and best practices</li>
       </ul>
       <a href="https://github.com/luananogueirap"><img src="https://img.shields.io/badge/GitHub-luananogueirap-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
     </td>
