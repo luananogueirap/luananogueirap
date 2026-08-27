@@ -4,12 +4,10 @@
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtsdmlsNXdxeDIwMTJpM29weGlhbnc5M2FpeWdhamxqa2NmeHh5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" width="300" alt="Cat programming on a computer" />
     </td>
     <td width="60%" valign="middle">
-      <p>currently, I'm deepening my knowledge of back-end development, APIs, and databases.</p>
       <ul>
         <li> exploring the javascript and node.js ecosystem</li>
         <li> building APIs and web applications with a focus on clean code and best practices</li>
       </ul>
-      <a href="https://github.com/luananogueirap"><img src="https://img.shields.io/badge/GitHub-luananogueirap-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
     </td>
   </tr>
 </table>
