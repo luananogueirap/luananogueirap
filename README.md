@@ -5,7 +5,7 @@
     </td>
     <td width="60%" valign="middle">
       <ul>
-        <li> exploring the javascript and node.js ecosystem</li>
+        <li> exploring the javascript, node.js and typescript ecosystem</li>
         <li> building APIs and web applications with a focus on clean code and best practices</li>
       </ul>
     </td>
